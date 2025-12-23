@@ -17,7 +17,7 @@ const config = {
   url: 'http://example.com',
   baseUrl: BASE,
   trailingSlash: true,
-  favicon: 'img/favicon.png',
+  favicon: 'img/logo.png',
 
   staticDirectories: ['static', 'public'],
 
