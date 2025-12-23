@@ -1,3 +1,0 @@
----
-title: Fixed-wing UAVs
----

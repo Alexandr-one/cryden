@@ -14,7 +14,7 @@ const __dirname = path.dirname(__filename);
 
 const config = {
   title: 'Docs',
-  url: '',
+  url: 'http://example.com',
   baseUrl: BASE,
   trailingSlash: true,
   favicon: 'img/favicon.png',
@@ -45,8 +45,7 @@ const config = {
 
   themeConfig: {
     navbar: {
-      title: 'Cryden',
-      logo: { alt: 'Cryden', src: 'img/logo.png' },
+      logo: { alt: 'Crydon', src: 'img/logo.png' },
       items: [
         ...navbarItems,
         { type: 'search', position: 'right' },           // ← search box in header (local)

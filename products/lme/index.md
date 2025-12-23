@@ -1,3 +1,0 @@
----
-title: Manufacturing Equipment
----
