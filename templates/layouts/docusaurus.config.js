@@ -58,7 +58,11 @@ const config = {
       ],
       copyright: `Cryden — ${new Date().getFullYear()}`,
     },
-
+    colorMode: {
+      defaultMode: 'dark',
+      disableSwitch: false,     
+      respectPrefersColorScheme: false, 
+    },
     prism: {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
