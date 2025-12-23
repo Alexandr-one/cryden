@@ -1,6 +1,6 @@
 ---
 title: Media
 type: menu
-order: 4
+order: 6
 items: [media-coverage, ceo]
 ---
